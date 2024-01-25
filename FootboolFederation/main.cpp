@@ -3,9 +3,7 @@
 #include "User.h"
 #include "Team.h"
 #include "Schedule.h"
-#include "Rankings.h"
 #include "Refer.h"
-#include "Match.h"
 #include "Administration.h"
 #include <vector>
 
@@ -14,7 +12,7 @@ int main() {
 
 
     // Class Administration creation
-    Administration bgFootballAdministration("BFF", "asdadasdasdas", "Bulgarian Football Fedration",
+    Administration bgFootballAdministration("BFF", "abcdf", "Bulgarian Football Fedration",
                                             "Peikov 10", "Sofia", teams);
 
     // Team Creation
@@ -73,6 +71,19 @@ int main() {
     //Adding Schedule to vector schedules
 
     bgFootballAdministration.displaySchedulesByMonth();
+
+    for(Schedule sch : bgFootballAdministration.getSchedules()){
+        sch.printInfo();
+        bgFootballAdministration.playMatch(sch.getTeamHome(), sch.getTeamAway());
+
+    }
+
+    for (Team team : bgFootballAdministration.getTeams()) {
+        team.printInfo();
+    }
+
+    bgFootballAdministration.getRankings(bgFootballAdministration.getTeams());
+
 
     // Displaying info for teams
 

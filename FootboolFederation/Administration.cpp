@@ -101,6 +101,56 @@ void Administration::displaySchedulesByMonth()  {
     }
 }
 
+void Administration::playMatch(Team& team1, Team& team2) {
+
+
+
+    MatchResult result = static_cast<MatchResult>(rand() % 3); // Random match result
+
+    // Update teams' information based on the result
+    switch (result) {
+        case WIN:
+            team1.addWin();
+            team2.addLoss();
+            break;
+        case DRAW:
+            team1.addDraw();
+            team2.addDraw();
+            break;
+        case LOSS:
+            team1.addLoss();
+            team2.addWin();
+            break;
+    }
+
+    // Update rankings (you need to implement the ranking logic)
+    //
+    for (int i = 0; i < teams.size(); ++i) {
+        if (teams[i].getName() == team1.getName()) {
+            teams[i] = team1;
+        }
+        if (teams[i].getName() == team2.getName()) {
+            teams[i] = team2;
+        }
+    }
+    // Print match result or other information
+    cout << "Match Result: " << team1.getName() << " vs " << team2.getName() << " - ";
+
+    switch (result) {
+        case WIN:
+            cout << team1.getName() << " wins";
+            break;
+        case DRAW:
+            cout << "Draw";
+            break;
+        case LOSS:
+            cout << team2.getName() << " wins";
+            break;
+    }
+    cout << endl;
+}
+
+
 //void Administration::modifySchedule(Refer refer, string newDate, string NewRefer) {
 //    for (int i = 0; i < schedules.size(); ++i) {
 //        if(schedules[i].getRefer().
@@ -108,10 +158,20 @@ void Administration::displaySchedulesByMonth()  {
 //    // Logic to modify the schedule
 //}
 
-void Administration::createRankings(Rankings rankings) {
+#include <algorithm> // for std::sort
+
+void Administration::getRankings(vector<Team> teams) {
     // Logic to create rankings
+
+    // Sort teams based on their points (descending order)
+    sort(teams.begin(), teams.end(), [](Team& a, Team& b) {
+        return a.getPoints() > b.getPoints(); // Sort in descending order of points
+    });
+
+    // Display rankings
+    cout << "Rankings:" << endl;
+    for (size_t i = 0; i < teams.size(); ++i) {
+        cout << i + 1 << ". " << teams[i].getName() << " - Points: " << teams[i].getPoints() << " -- "<< " W: " << teams[i].getWins() << " -- " << "L: " <<  teams[i].getLoses() << " -- "<< "D: " << " -- "<< teams[i].getDraws() << endl;
+    }
 }
 
-void Administration::modifyRankings(Rankings rankings) {
-    // Logic to modify rankings
-}

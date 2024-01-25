@@ -6,7 +6,6 @@
 #define FOOTBOOLFEDERATION_TEAM_H
 #include <iostream>
 #include <string>
-#include "Rankings.h"
 #include "vector"
 
 using namespace std;
@@ -32,9 +31,15 @@ public:
 
     int getPoints();
 
-    Rankings getRankings(Rankings);
-
     void printInfo();
+
+    //---------------------------//
+
+    void addWin();
+    void addLoss();
+    void addDraw();
+
+    //---------------------------//
 
 private:
     string name;
@@ -43,7 +48,6 @@ private:
     int loses;
     int draws;
     int points;
-    vector<Rankings> rankings;
 };
 
 

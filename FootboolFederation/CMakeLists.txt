@@ -13,10 +13,7 @@ add_executable(FootboolFederation main.cpp
         FanBase.cpp
         Administration.cpp
         Team.h
-        Match.h
         Schedule.h
         Team.cpp
         Schedule.cpp
-        Rankings.h
-        Rankings.cpp
-        Match.cpp)
+)
