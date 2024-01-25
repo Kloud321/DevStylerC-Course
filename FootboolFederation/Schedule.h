@@ -7,11 +7,12 @@
 
 #include <string>
 #include "Refer.h"
+#include "Team.h"
 using namespace std;
 
 class Schedule {
 public:
-    Schedule(int roundOfLegue, string date, string hour, string stadium, string nameTeamHome, string nameTeamAway, Refer refer);
+    Schedule(int, string, string, string, Team, Team, Refer);
 
     int getRoundOfLegue() const;
 
@@ -29,13 +30,9 @@ public:
 
     void setStadium(const string &stadium);
 
-    const string &getNameTeamHome() const;
+    Team &getTeamHome();
 
-    void setNameTeamHome(const string &nameTeamHome);
-
-    const string &getNameTeamAway() const;
-
-    void setNameTeamAway(const string &nameTeamAway);
+    Team &getTeamAway();
 
     const Refer &getRefer() const;
 
@@ -54,8 +51,8 @@ private:
     string date;
     string hour;
     string stadium;
-    string NameTeamHome;
-    string NameTeamAway;
+    Team TeamHome;
+    Team TeamAway;
     Refer refer;
 };
 

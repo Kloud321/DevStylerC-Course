@@ -4,8 +4,8 @@
 
 #include "Schedule.h"
 
-Schedule::Schedule(int roundOfLegue, string date, string hour, string stadium, string nameTeamHome, string nameTeamAway, Refer refer) : roundOfLegue(
-        roundOfLegue), date(date), hour(hour), stadium(stadium), NameTeamHome(nameTeamHome), NameTeamAway(nameTeamAway), refer(refer) {}
+Schedule::Schedule(int roundOfLegue, string date, string hour, string stadium, Team teamHome, Team teamAway, Refer refer) : roundOfLegue(
+        roundOfLegue), date(date), hour(hour), stadium(stadium), TeamHome(teamHome), TeamAway(teamAway), refer(refer) {}
 
 int Schedule::getRoundOfLegue() const {
     return roundOfLegue;
@@ -39,21 +39,15 @@ void Schedule::setStadium(const string &stadium) {
     Schedule::stadium = stadium;
 }
 
-const string &Schedule::getNameTeamHome() const {
-    return NameTeamHome;
+Team &Schedule::getTeamHome()  {
+    return TeamHome;
 }
 
-void Schedule::setNameTeamHome(const string &nameTeamHome) {
-    NameTeamHome = nameTeamHome;
+
+Team &Schedule::getTeamAway()  {
+    return TeamAway;
 }
 
-const string &Schedule::getNameTeamAway() const {
-    return NameTeamAway;
-}
-
-void Schedule::setNameTeamAway(const string &nameTeamAway) {
-    NameTeamAway = nameTeamAway;
-}
 
 const Refer &Schedule::getRefer() const {
     return refer;
@@ -68,15 +62,14 @@ string Schedule::getMonth()  {
 }
 
 
-
 void Schedule::printInfo() {
     cout << "-----------------" << endl;
     cout << "League round: " << this->getRoundOfLegue() << endl;
     cout << "Match Date: " << this->getDate() << endl;
     cout << "Match Hour: " << this->getHour() << endl;
     cout << "Stadium: " << this->getStadium() << endl;
-    cout << "Home team: " << this->getNameTeamHome() << endl;
-    cout << "Away team: " << this->getNameTeamAway() << endl;
+    cout << "Home team: " << this-> TeamHome.getName() << endl;
+    cout << "Away team: " << this->TeamAway.getName() << endl;
     cout << "Referee: " << this->refer.getFirstName() << " " << this->refer.getLastName() << endl;
     cout << "----------------------------" << endl;
 }
