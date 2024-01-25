@@ -9,8 +9,7 @@
 #include "User.h"
 #include "Team.h"
 #include "Schedule.h"
-#include "Rankings.h"
-
+#include <algorithm>
 
 class Administration : public User {
 public:
@@ -46,14 +45,23 @@ public:
     void modifySchedule(Refer, string, string);
 
 
-    void createRankings(Rankings);
-    void modifyRankings(Rankings);
-
-
     //------------------------------//
 
     void addReferee(Refer);
     vector<Refer> getRefereeList();
+
+    ///------------------------------////
+
+    void playMatch(Team&, Team&);
+
+
+    enum MatchResult {
+        WIN,
+        DRAW,
+        LOSS
+    };
+
+    void getRankings(vector<Team>);
 
 private:
     string name;

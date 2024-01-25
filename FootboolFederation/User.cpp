@@ -17,12 +17,18 @@ string User::getUsername()  {
 }
 
 void User::setPassword(string password) {
-    while (!(password.length() > 4 && password.length() < 20)) {
-        cout << "Incorrect Password" << endl;
-        cin >> password;
+    if (password.length() > 4 && password.length() < 20){
+        this->password = password;
+
+    }else{
+        while (!(password.length() > 4 && password.length() < 20)) {
+            cout << "Incorrect Password" << endl;
+            cin >> password;
+        }
+
+        this->password = password;
     }
 
-    this->password = password;
 }
 
 

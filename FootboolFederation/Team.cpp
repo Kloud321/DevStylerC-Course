@@ -49,6 +49,24 @@ int Team::getPoints()  {
 //    return rankList;
 //}
 
+// Team.cpp
+
+// Implement these methods in your Team.cpp file
+
+void Team::addWin() {
+    this->wins++;
+    this->points +=3;
+}
+
+void Team::addLoss() {
+    this->loses++;
+}
+
+void Team::addDraw() {
+    this->draws++;
+    this->points +=1;
+}
+
 
 void Team::printInfo() {
     cout<< "------------------------" << endl;
