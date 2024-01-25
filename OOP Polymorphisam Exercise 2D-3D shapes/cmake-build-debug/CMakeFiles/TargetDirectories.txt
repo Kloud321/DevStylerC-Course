@@ -1,0 +1,3 @@
+C:/Users/damya/CLionProjects/OOP Polymorphisam Exercise 2D-3D shapes/cmake-build-debug/CMakeFiles/OOP_Polymorphisam_Exercise_2D_3D_shapes.dir
+C:/Users/damya/CLionProjects/OOP Polymorphisam Exercise 2D-3D shapes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/damya/CLionProjects/OOP Polymorphisam Exercise 2D-3D shapes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

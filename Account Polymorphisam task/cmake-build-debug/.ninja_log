@@ -1,0 +1,8 @@
+# ninja log v5
+16	222	7274690050152360	CMakeFiles/Account_Polymorphisam_task.dir/Savings.cpp.obj	93a21985c20299a2
+650	809	7274742746893112	Account_Polymorphisam_task.exe	4382c655999f0337
+15	721	7274730174427583	CMakeFiles/Account_Polymorphisam_task.dir/Account.cpp.obj	79320f4f2645d57f
+10	675	7274730173957606	CMakeFiles/Account_Polymorphisam_task.dir/CheckingAccaount.cpp.obj	77d378f49dcef20a
+4	649	7274742745363437	CMakeFiles/Account_Polymorphisam_task.dir/main.cpp.obj	daaec9d1014c0200
+1	258	7275540503442161	build.ninja	9aad337237a65cb
+20	750	7274730174727556	CMakeFiles/Account_Polymorphisam_task.dir/SavingAccount.cpp.obj	1c60793fd07d774d

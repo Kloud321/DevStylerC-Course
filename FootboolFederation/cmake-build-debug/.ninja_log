@@ -1,0 +1,21 @@
+# ninja log v5
+16	650	7277402560563671	CMakeFiles/FootboolFederation.dir/Team.cpp.obj	3e934ee7c96da781
+16	812	7278154949587153	CMakeFiles/FootboolFederation.dir/Schedule.cpp.obj	edd0feeb75f2273
+22	122	7277032003008748	CMakeFiles/FootboolFederation.dir/FanBase.cpp.obj	ee626ad0a5ad1a36
+9	971	7278168065972013	CMakeFiles/FootboolFederation.dir/Administration.cpp.obj	e3cb76952305d866
+9	759	7278154949041066	CMakeFiles/FootboolFederation.dir/Refer.cpp.obj	52d7556fcc96c147
+4	712	7278175511728318	CMakeFiles/FootboolFederation.dir/main.cpp.obj	f09c0167be10d765
+443	641	7278175857484672	FootboolFederation.exe	dd154408f3afda82
+4	443	7278175855554655	CMakeFiles/FootboolFederation.dir/User.cpp.obj	693a1465c70ad71e
+54	276	7277313788900934	CMakeFiles/FootboolFederation.dir/Match.cpp.obj	30ab305520d4c88b
+45	280	7277313788940967	CMakeFiles/FootboolFederation.dir/Rankings.cpp.obj	a737583791646e6b
+42	272	7278780944070364	CMakeFiles/FootboolFederation.dir/FanBase.cpp.obj	3509a05d3f99ab64
+75	314	7278780944372275	CMakeFiles/FootboolFederation.dir/Match.cpp.obj	62d20cfeb6b150e8
+96	327	7278780944712257	CMakeFiles/FootboolFederation.dir/Rankings.cpp.obj	f42d6b0e96037691
+22	1309	7278780954434083	CMakeFiles/FootboolFederation.dir/User.cpp.obj	3f5688f273892bb1
+32	1424	7278780955645405	CMakeFiles/FootboolFederation.dir/Refer.cpp.obj	ed0ecf565362ea5e
+65	1468	7278780956128193	CMakeFiles/FootboolFederation.dir/Schedule.cpp.obj	7d5c0ea8d5a1cab
+87	1514	7278780956580481	CMakeFiles/FootboolFederation.dir/Team.cpp.obj	2ea2729415bdf247
+9	1870	7278780960160679	CMakeFiles/FootboolFederation.dir/main.cpp.obj	97b1a3418ca890d3
+53	2263	7278780964084576	CMakeFiles/FootboolFederation.dir/Administration.cpp.obj	c8edae4cd4a90e9e
+2263	2681	7278780968213173	FootboolFederation.exe	dd154408f3afda82

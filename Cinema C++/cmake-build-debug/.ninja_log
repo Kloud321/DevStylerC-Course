@@ -1,0 +1,9 @@
+# ninja log v5
+12	885	7267134367026730	CMakeFiles/Cinema_C__.dir/Cinema.cpp.obj	cfb164d972e2cc57
+4	561	7266261270019907	CMakeFiles/Cinema_C__.dir/Screening.cpp.obj	cf7ad2a06c2ca529
+5	874	7267134366936624	CMakeFiles/Cinema_C__.dir/main.cpp.obj	2fc9fe534265497f
+5	667	7267129752465446	CMakeFiles/Cinema_C__.dir/Hall.cpp.obj	327924c64a741396
+885	1091	7267134369069588	Cinema_C__.exe	ada7bd3d61a6dde5
+12	1208	7268663013706902	CMakeFiles/Cinema_C__.dir/MovieFinder.cpp.obj	6410a40f1ed2d5b6
+5	1222	7268663013847258	CMakeFiles/Cinema_C__.dir/main.cpp.obj	2fc9fe534265497f
+1223	1591	7268663017489360	Cinema_C__.exe	24445fc2f7a1e
