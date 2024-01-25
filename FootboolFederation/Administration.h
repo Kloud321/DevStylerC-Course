@@ -39,7 +39,7 @@ public:
 
     //-----------------------------//
 
-    void createSchedule(int, string, string, string, string, string, Refer);
+    void createSchedule(int, string, string, string, Team, Team, Refer);
     void addSchedule(Schedule);
     void addScheduleToMap(Schedule);
     void displaySchedulesByMonth();

@@ -81,8 +81,8 @@ void Administration::removeTeam(Team team) {
     cout << "Team " << team.getName() << " not found. Cannot remove." << endl;
 }
 
-void Administration::createSchedule(int roundOfLegue, string date, string hour, string stadium, string nameTeamHome, string nameTeamAway, Refer refer) {
-    Schedule schedule(roundOfLegue, date, hour, stadium, nameTeamHome, nameTeamAway, refer);
+void Administration::createSchedule(int roundOfLegue, string date, string hour, string stadium, Team TeamHome, Team TeamAway, Refer refer) {
+    Schedule schedule(roundOfLegue, date, hour, stadium, TeamHome, TeamAway, refer);
     addSchedule(schedule);
     addScheduleToMap(schedule);
 }

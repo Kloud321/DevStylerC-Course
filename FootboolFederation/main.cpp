@@ -9,8 +9,6 @@
 #include "Administration.h"
 #include <vector>
 
-
-
 int main() {
     vector <Team> teams; //& if we want to modify this vector - > the original
 
@@ -20,7 +18,7 @@ int main() {
                                             "Peikov 10", "Sofia", teams);
 
     // Team Creation
-    Team team1("Levski Sofia", "Nikolay Velev");
+    Team team1("Levski Sofia", "Stanimir Stoilov");
 
     Team team2("CSKA Sofia", "Georgi Popov");
 
@@ -29,6 +27,8 @@ int main() {
     Team team4("Loko Plovdiv", "Sasha Iliev");
 
     Team team5("Beroe", "Ilia Petev");
+
+    Team team6("Slavia", "Nikolay Velev");
 
     // ----------------------------//
 
@@ -39,6 +39,7 @@ int main() {
     bgFootballAdministration.addTeam(team3);
     bgFootballAdministration.addTeam(team4);
     bgFootballAdministration.addTeam(team5);
+    bgFootballAdministration.addTeam(team6);
 
     // Modifying Team
 
@@ -65,9 +66,9 @@ int main() {
     }
 
     // Creating a schedule through the Administration class
-    bgFootballAdministration.createSchedule(1, "2024-01-30", "18:00", "Georgi Asparuhov", "Levski Sofia", "CSKA Sofia", ref1);
-    bgFootballAdministration.createSchedule(2, "2024-02-05", "20:00", "Vasil Levski", "Loko Plovdiv", "Litex", ref2);
-    bgFootballAdministration.createSchedule(3, "2024-03-05", "21:00", "Vasil Levski", "Loko Plovdiv", "Litex", ref3);
+    bgFootballAdministration.createSchedule(1, "2024-01-30", "18:00", "Georgi Asparuhov", team1, team2, ref1);
+    bgFootballAdministration.createSchedule(2, "2024-02-05", "20:00", "Vasil Levski", team3, team4, ref2);
+    bgFootballAdministration.createSchedule(3, "2024-03-05", "21:00", "Vasil Levski", team5, team6, ref3);
 
     //Adding Schedule to vector schedules
 
