@@ -1,0 +1,15 @@
+# ninja log v5
+3	410	7271852718469042	CMakeFiles/OOP_Polymorphisam_Exercise_2D_3D_shapes.dir/TwoDimensionalShape.cpp.obj	87e905e1a43687d8
+9	807	7271848888674249	CMakeFiles/OOP_Polymorphisam_Exercise_2D_3D_shapes.dir/Shape.cpp.obj	8f1b2c88a2b9fe14
+4	540	7271863880389990	CMakeFiles/OOP_Polymorphisam_Exercise_2D_3D_shapes.dir/main.cpp.obj	ead78b97531e7bdc
+13	815	7271848888754253	CMakeFiles/OOP_Polymorphisam_Exercise_2D_3D_shapes.dir/ThreeDemensionalShape.cpp.obj	87be4717a2bf2141
+541	669	7271863881619758	OOP_Polymorphisam_Exercise_2D_3D_shapes.exe	fa727a107abdfaba
+6	446	7271871020981879	build.ninja	4955fb78dff84a23
+18	832	7271848888934220	CMakeFiles/OOP_Polymorphisam_Exercise_2D_3D_shapes.dir/Circle.cpp.obj	17e875f03bb9cc4d
+14	517	7271896299916103	CMakeFiles/OOP_Polymorphisam_Exercise_2D_3D_shapes.dir/Circle.cpp.obj	17e875f03bb9cc4d
+9	531	7271896300066041	CMakeFiles/OOP_Polymorphisam_Exercise_2D_3D_shapes.dir/TwoDimensionalShape.cpp.obj	87e905e1a43687d8
+4	608	7271896300836410	CMakeFiles/OOP_Polymorphisam_Exercise_2D_3D_shapes.dir/main.cpp.obj	ead78b97531e7bdc
+608	750	7271896302206347	OOP_Polymorphisam_Exercise_2D_3D_shapes.exe	fa727a107abdfaba
+11	464	7271897702859305	CMakeFiles/OOP_Polymorphisam_Exercise_2D_3D_shapes.dir/Circle.cpp.obj	17e875f03bb9cc4d
+4	506	7271901474036880	CMakeFiles/OOP_Polymorphisam_Exercise_2D_3D_shapes.dir/main.cpp.obj	ead78b97531e7bdc
+507	629	7271901475257274	OOP_Polymorphisam_Exercise_2D_3D_shapes.exe	fa727a107abdfaba

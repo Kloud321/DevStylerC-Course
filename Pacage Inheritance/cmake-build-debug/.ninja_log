@@ -1,0 +1,10 @@
+# ninja log v5
+69	1170	7272120191397233	CMakeFiles/Pacage_Inheritance.dir/OverNightPackage.cpp.obj	45af6befee60cf66
+5	765	7272674378801521	build.ninja	ae0ca5df4cfa83d1
+16	98	7271957130849775	CMakeFiles/Pacage_Inheritance.dir/TwoDayPacage.cpp.obj	312b1524e5130e19
+20	1373	7272120193451521	CMakeFiles/Pacage_Inheritance.dir/main.cpp.obj	c846a73612fe504e
+16	827	7271969842853487	CMakeFiles/Pacage_Inheritance.dir/Adress.cpp.obj	eb1af034f8b589a
+23	687	7271969841423431	CMakeFiles/Pacage_Inheritance.dir/OverNightPacage.cpp.obj	470f5941a15c494a
+1373	1612	7272120195766765	Pacage_Inheritance.exe	6e99e687960f165
+40	1287	7272120192591298	CMakeFiles/Pacage_Inheritance.dir/Package.cpp.obj	f272f4c9d3942803
+57	1153	7272120191235190	CMakeFiles/Pacage_Inheritance.dir/TwoDayPackage.cpp.obj	93d8d85b3bcc6861
