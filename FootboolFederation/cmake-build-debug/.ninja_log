@@ -1,0 +1,26 @@
+# ninja log v5
+21	848	7279161087650094	CMakeFiles/FootboolFederation.dir/Schedule.cpp.obj	7d5c0ea8d5a1cab
+3	504	7279168423577136	CMakeFiles/FootboolFederation.dir/Team.cpp.obj	2ea2729415bdf247
+42	272	7278780944070364	CMakeFiles/FootboolFederation.dir/FanBase.cpp.obj	3509a05d3f99ab64
+7	1178	7279171887596448	CMakeFiles/FootboolFederation.dir/Administration.cpp.obj	c8edae4cd4a90e9e
+32	1424	7278780955645405	CMakeFiles/FootboolFederation.dir/Refer.cpp.obj	ed0ecf565362ea5e
+6	753	7279161517383048	CMakeFiles/FootboolFederation.dir/main.cpp.obj	97b1a3418ca890d3
+5	456	7278889330283308	CMakeFiles/FootboolFederation.dir/User.cpp.obj	3f5688f273892bb1
+1179	1415	7279171889923188	FootboolFederation.exe	dd154408f3afda82
+15	782	7279161086987518	CMakeFiles/FootboolFederation.dir/Match.cpp.obj	62d20cfeb6b150e8
+96	327	7278780944712257	CMakeFiles/FootboolFederation.dir/Rankings.cpp.obj	f42d6b0e96037691
+4	377	7279183161247177	build.ninja	187b8f2e2e4bf10e
+24	673	7279183485501103	CMakeFiles/FootboolFederation.dir/Team.cpp.obj	2ea2729415bdf247
+11	700	7279183485786443	CMakeFiles/FootboolFederation.dir/Schedule.cpp.obj	7d5c0ea8d5a1cab
+3	801	7279183811835965	CMakeFiles/FootboolFederation.dir/main.cpp.obj	97b1a3418ca890d3
+5	927	7279183996674383	CMakeFiles/FootboolFederation.dir/Administration.cpp.obj	c8edae4cd4a90e9e
+928	1132	7279183998684866	FootboolFederation.exe	8388e9453d8fe5b7
+4	668	7279184660395611	CMakeFiles/FootboolFederation.dir/main.cpp.obj	97b1a3418ca890d3
+669	862	7279184662291279	FootboolFederation.exe	8388e9453d8fe5b7
+3	769	7279185525431627	CMakeFiles/FootboolFederation.dir/main.cpp.obj	97b1a3418ca890d3
+5	1127	7279185697061715	CMakeFiles/FootboolFederation.dir/Administration.cpp.obj	c8edae4cd4a90e9e
+1127	1371	7279185699355180	FootboolFederation.exe	8388e9453d8fe5b7
+4	1114	7279186540996027	CMakeFiles/FootboolFederation.dir/Administration.cpp.obj	c8edae4cd4a90e9e
+1115	1327	7279186543076846	FootboolFederation.exe	8388e9453d8fe5b7
+4	1047	7279186779223563	CMakeFiles/FootboolFederation.dir/Administration.cpp.obj	c8edae4cd4a90e9e
+1047	1278	7279186781493775	FootboolFederation.exe	8388e9453d8fe5b7

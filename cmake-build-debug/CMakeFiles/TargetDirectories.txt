@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 C:/Users/damya/CLionProjects/DevStylerC++Course/FootboolFederation/cmake-build-debug/CMakeFiles/FootboolFederation.dir
 C:/Users/damya/CLionProjects/DevStylerC++Course/FootboolFederation/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/damya/CLionProjects/DevStylerC++Course/FootboolFederation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+=======
+C:/Users/damya/CLionProjects/DevStylerC++Course/cmake-build-debug/CMakeFiles/DevStylerC__Course.dir
+C:/Users/damya/CLionProjects/DevStylerC++Course/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/damya/CLionProjects/DevStylerC++Course/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+>>>>>>> 83e4ec9d1993ba81cb4c520bdc4b1f579321606d

@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 # Install script for directory: C:/Users/damya/CLionProjects/DevStylerC++Course/FootboolFederation
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
   set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/FootboolFederation")
+=======
+# Install script for directory: C:/Users/damya/CLionProjects/DevStylerC++Course
+
+# Set the install prefix
+if(NOT DEFINED CMAKE_INSTALL_PREFIX)
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/DevStylerC__Course")
+>>>>>>> 83e4ec9d1993ba81cb4c520bdc4b1f579321606d
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +53,9 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
+<<<<<<< HEAD
 file(WRITE "C:/Users/damya/CLionProjects/DevStylerC++Course/FootboolFederation/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+=======
+file(WRITE "C:/Users/damya/CLionProjects/DevStylerC++Course/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+>>>>>>> 83e4ec9d1993ba81cb4c520bdc4b1f579321606d
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
