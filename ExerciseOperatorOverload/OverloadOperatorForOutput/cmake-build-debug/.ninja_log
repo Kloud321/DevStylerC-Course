@@ -1,0 +1,8 @@
+# ninja log v5
+6	573	7282635850540214	CMakeFiles/OverloadOperatorForOutput.dir/main.cpp.obj	c4114c753762355e
+1	612	7282635850960216	CMakeFiles/OverloadOperatorForOutput.dir/Price.cpp.obj	96e07be2fc697d85
+612	779	7282635852570205	OverloadOperatorForOutput.exe	1684d1d822518115
+4	684	7282636877103812	CMakeFiles/OverloadOperatorForOutput.dir/main.cpp.obj	c4114c753762355e
+685	885	7282636879043814	OverloadOperatorForOutput.exe	1684d1d822518115
+3	463	7282636940221708	CMakeFiles/OverloadOperatorForOutput.dir/main.cpp.obj	c4114c753762355e
+464	599	7282636941541712	OverloadOperatorForOutput.exe	1684d1d822518115

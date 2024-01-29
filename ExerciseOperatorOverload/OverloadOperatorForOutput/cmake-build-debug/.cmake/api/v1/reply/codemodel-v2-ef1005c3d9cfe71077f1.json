@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OverloadOperatorForOutput",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OverloadOperatorForOutput::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OverloadOperatorForOutput-Debug-3c05a1742d09ff3c3948.json",
+					"name" : "OverloadOperatorForOutput",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/damya/CLionProjects/DevStylerC++Course/ExerciseOperatorOverload/OverloadOperatorForOutput/cmake-build-debug",
+		"source" : "C:/Users/damya/CLionProjects/DevStylerC++Course/ExerciseOperatorOverload/OverloadOperatorForOutput"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
