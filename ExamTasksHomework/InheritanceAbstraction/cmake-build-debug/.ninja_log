@@ -1,0 +1,26 @@
+# ninja log v5
+0	86	7282351931529356	CMakeFiles/InheritanceAbstraction.dir/Circle.cpp.obj	1637d6e175405230
+6	94	7282351931609393	CMakeFiles/InheritanceAbstraction.dir/shape.cpp.obj	798f0ab5b313205
+1	96	7282355216100515	CMakeFiles/InheritanceAbstraction.dir/Circle.cpp.obj	1637d6e175405230
+10	110	7282355216250490	CMakeFiles/InheritanceAbstraction.dir/main.cpp.obj	ddfc4e9c39a9f9ad
+5	567	7282355220819719	CMakeFiles/InheritanceAbstraction.dir/Rectangle.cpp.obj	b74e4b3e1ebe0ec0
+568	682	7282355221929620	InheritanceAbstraction.exe	535bd2caf1cb9dc3
+4	107	7282376566096439	CMakeFiles/InheritanceAbstraction.dir/Circle.cpp.obj	1637d6e175405230
+10	548	7282376570520333	CMakeFiles/InheritanceAbstraction.dir/main.cpp.obj	ddfc4e9c39a9f9ad
+4	527	7282388892175608	CMakeFiles/InheritanceAbstraction.dir/main.cpp.obj	ddfc4e9c39a9f9ad
+7	591	7282389662487021	CMakeFiles/InheritanceAbstraction.dir/Circle.cpp.obj	1637d6e175405230
+14	636	7282389662962257	CMakeFiles/InheritanceAbstraction.dir/main.cpp.obj	ddfc4e9c39a9f9ad
+637	762	7282389664177794	InheritanceAbstraction.exe	535bd2caf1cb9dc3
+4	610	7282394056446591	CMakeFiles/InheritanceAbstraction.dir/Circle.cpp.obj	1637d6e175405230
+14	652	7282394056881699	CMakeFiles/InheritanceAbstraction.dir/Rectangle.cpp.obj	b74e4b3e1ebe0ec0
+9	711	7282394057482136	CMakeFiles/InheritanceAbstraction.dir/main.cpp.obj	ddfc4e9c39a9f9ad
+711	828	7282394058612925	InheritanceAbstraction.exe	535bd2caf1cb9dc3
+3	420	7282394495239457	CMakeFiles/InheritanceAbstraction.dir/Circle.cpp.obj	1637d6e175405230
+421	538	7282394496375032	InheritanceAbstraction.exe	535bd2caf1cb9dc3
+3	495	7282395074974087	CMakeFiles/InheritanceAbstraction.dir/Circle.cpp.obj	1637d6e175405230
+8	593	7282395075959362	CMakeFiles/InheritanceAbstraction.dir/main.cpp.obj	ddfc4e9c39a9f9ad
+593	716	7282395077150210	InheritanceAbstraction.exe	535bd2caf1cb9dc3
+3	549	7282395255202852	CMakeFiles/InheritanceAbstraction.dir/main.cpp.obj	ddfc4e9c39a9f9ad
+550	667	7282395256348491	InheritanceAbstraction.exe	535bd2caf1cb9dc3
+4	552	7282395407853940	CMakeFiles/InheritanceAbstraction.dir/main.cpp.obj	ddfc4e9c39a9f9ad
+553	684	7282395409136557	InheritanceAbstraction.exe	535bd2caf1cb9dc3
