@@ -1,0 +1,15 @@
+# ninja log v5
+2	250	7282605333745013	build.ninja	9291abc97e6296d
+1	594	7282605340744999	CMakeFiles/Overload_Operator.dir/Price.cpp.obj	d08e8d86e0fe7529
+5	564	7282605611662512	CMakeFiles/Overload_Operator.dir/main.cpp.obj	a5fc657542212d10
+565	708	7282605613052570	Overload_Operator.exe	6b16ff9b81070d31
+3	492	7282606525711102	CMakeFiles/Overload_Operator.dir/Price.cpp.obj	d08e8d86e0fe7529
+8	497	7282606525751111	CMakeFiles/Overload_Operator.dir/main.cpp.obj	a5fc657542212d10
+497	628	7282606527041120	Overload_Operator.exe	6b16ff9b81070d31
+3	411	7282606617581329	CMakeFiles/Overload_Operator.dir/main.cpp.obj	a5fc657542212d10
+412	519	7282606618621200	Overload_Operator.exe	6b16ff9b81070d31
+8	444	7282612006229784	CMakeFiles/Overload_Operator.dir/Price.cpp.obj	d08e8d86e0fe7529
+3	458	7282612006379745	CMakeFiles/Overload_Operator.dir/main.cpp.obj	a5fc657542212d10
+458	577	7282612007519763	Overload_Operator.exe	6b16ff9b81070d31
+4	428	7282612055057238	CMakeFiles/Overload_Operator.dir/main.cpp.obj	a5fc657542212d10
+429	535	7282612056078098	Overload_Operator.exe	6b16ff9b81070d31
