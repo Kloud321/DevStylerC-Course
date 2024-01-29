@@ -1,0 +1,5 @@
+# ninja log v5
+0	363	7282519028708954	CMakeFiles/TaskSumOfVectors.dir/couples.cpp.obj	a9434cf8ba8748b1
+1	224	7282548243314888	build.ninja	b25ff6b2822342f1
+1	501	7282548249164945	CMakeFiles/TaskSumOfVectors.dir/main.cpp.obj	a5fac3966fe2fa3b
+502	635	7282548250475263	TaskSumOfVectors.exe	9e4b8fbcca62473e
