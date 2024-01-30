@@ -1,0 +1,14 @@
+# ninja log v5
+0	542	7283356768781728	CMakeFiles/Prefix_and_postfix.dir/main.cpp.obj	6e7b49d391269928
+6	549	7283356768832073	CMakeFiles/Prefix_and_postfix.dir/Price.cpp.obj	f1d09cd10eaa0aee
+549	755	7283356770821723	Prefix_and_postfix.exe	1b2c244a8967b74c
+4	439	7283356971096598	CMakeFiles/Prefix_and_postfix.dir/main.cpp.obj	6e7b49d391269928
+440	563	7283356972296565	Prefix_and_postfix.exe	1b2c244a8967b74c
+4	577	7283357855106007	CMakeFiles/Prefix_and_postfix.dir/Price.cpp.obj	f1d09cd10eaa0aee
+578	729	7283357856585972	Prefix_and_postfix.exe	1b2c244a8967b74c
+6	450	7283358297852633	CMakeFiles/Prefix_and_postfix.dir/main.cpp.obj	6e7b49d391269928
+451	568	7283358298992966	Prefix_and_postfix.exe	1b2c244a8967b74c
+3	422	7283358417811193	CMakeFiles/Prefix_and_postfix.dir/main.cpp.obj	6e7b49d391269928
+423	532	7283358418870773	Prefix_and_postfix.exe	1b2c244a8967b74c
+6	508	7283359153784136	CMakeFiles/Prefix_and_postfix.dir/Price.cpp.obj	f1d09cd10eaa0aee
+509	637	7283359155004150	Prefix_and_postfix.exe	1b2c244a8967b74c
