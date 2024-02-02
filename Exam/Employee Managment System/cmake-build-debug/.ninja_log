@@ -1,0 +1,20 @@
+# ninja log v5
+0	541	7284305744821396	CMakeFiles/Employee_Managment_System.dir/Employee.cpp.obj	66ad86db85db9f42
+9	567	7284313442110227	CMakeFiles/Employee_Managment_System.dir/Employee.cpp.obj	66ad86db85db9f42
+4	613	7284313442580193	CMakeFiles/Employee_Managment_System.dir/main.cpp.obj	5a4383aece35db6a
+15	684	7284313443300183	CMakeFiles/Employee_Managment_System.dir/Department.cpp.obj	509951ad03bc315
+684	809	7284313444480183	Employee_Managment_System.exe	aac46e4aa0c7497e
+11	681	7284314874945987	CMakeFiles/Employee_Managment_System.dir/Department.cpp.obj	509951ad03bc315
+3	459	7284314992369639	CMakeFiles/Employee_Managment_System.dir/main.cpp.obj	5a4383aece35db6a
+460	587	7284314993589623	Employee_Managment_System.exe	aac46e4aa0c7497e
+4	528	7284316282091154	CMakeFiles/Employee_Managment_System.dir/main.cpp.obj	5a4383aece35db6a
+10	600	7284316282830779	CMakeFiles/Employee_Managment_System.dir/Department.cpp.obj	509951ad03bc315
+601	722	7284316283991414	Employee_Managment_System.exe	aac46e4aa0c7497e
+4	506	7284316815470979	CMakeFiles/Employee_Managment_System.dir/Department.cpp.obj	509951ad03bc315
+506	629	7284316816650985	Employee_Managment_System.exe	aac46e4aa0c7497e
+4	408	7284320840707919	CMakeFiles/Employee_Managment_System.dir/main.cpp.obj	5a4383aece35db6a
+409	558	7284320842178224	Employee_Managment_System.exe	aac46e4aa0c7497e
+3	563	7284321394234097	CMakeFiles/Employee_Managment_System.dir/Department.cpp.obj	509951ad03bc315
+564	693	7284321395624124	Employee_Managment_System.exe	aac46e4aa0c7497e
+4	488	7284321619446263	CMakeFiles/Employee_Managment_System.dir/Department.cpp.obj	509951ad03bc315
+489	614	7284321620666262	Employee_Managment_System.exe	aac46e4aa0c7497e

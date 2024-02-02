@@ -1,0 +1,5 @@
+# ninja log v5
+4	709	7284296443254425	CMakeFiles/Library.dir/main.cpp.obj	4b74f874cc814c53
+9	535	7284279146721961	CMakeFiles/Library.dir/Book.cpp.obj	393cc8fdc2ed319c
+709	851	7284296444654766	Library.exe	af3cc7cdb5cbe4e7
+9	550	7284296441674449	CMakeFiles/Library.dir/Member.cpp.obj	a71a12ee3c1be2b2
