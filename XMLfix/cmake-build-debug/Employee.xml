@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<EmployeesData FormatVersion="1">
+    <Employees>
+
+        <Employee
+                Name="John" type="Part-time" Age="23">
+                <Workstation Building="2" Floor="3" Desc="5" />
+        </Employee>
+
+        <Employee
+                Name="John" type="Part-time" Age="23">
+                <Workstation Building="2" Floor="3" Desc="6" />
+        </Employee>
+
+        <Employee
+                Name="John" type="Part-time" Age="23">
+                <Workstation Building="3" Floor="1" Desc="1" />
+        </Employee>
+
+
+    </Employees>
+
+
+
+
+
+</EmployeesData>

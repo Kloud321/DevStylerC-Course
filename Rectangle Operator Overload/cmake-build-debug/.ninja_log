@@ -1,0 +1,23 @@
+# ninja log v5
+4	380	7286680842832198	CMakeFiles/Car_Personal_Preparation.dir/main.cpp.obj	ce8d12d095b3409
+3	527	7286033292286609	CMakeFiles/Car_Personal_Preparation.dir/Car.cpp.obj	bc64a4b9c0435b64
+380	489	7286680843892544	Car_Personal_Preparation.exe	8210a2e704d374b6
+4	526	7287351518357101	CMakeFiles/Car_Personal_Preparation.dir/Rectangle.cpp.obj	913bbb6954dca79e
+9	531	7287351518406837	CMakeFiles/Car_Personal_Preparation.dir/main.cpp.obj	ce8d12d095b3409
+532	763	7287351520615873	Car_Personal_Preparation.exe	eb1d9c2e8324ffc4
+4	438	7287351968386609	CMakeFiles/Car_Personal_Preparation.dir/main.cpp.obj	ce8d12d095b3409
+439	547	7287351969441297	Car_Personal_Preparation.exe	eb1d9c2e8324ffc4
+8	544	7287355941031830	CMakeFiles/Car_Personal_Preparation.dir/main.cpp.obj	ce8d12d095b3409
+3	550	7287355941101816	CMakeFiles/Car_Personal_Preparation.dir/Rectangle.cpp.obj	913bbb6954dca79e
+550	676	7287355942317159	Car_Personal_Preparation.exe	eb1d9c2e8324ffc4
+8	450	7287358060370916	CMakeFiles/Car_Personal_Preparation.dir/main.cpp.obj	ce8d12d095b3409
+3	461	7287358060490916	CMakeFiles/Car_Personal_Preparation.dir/Rectangle.cpp.obj	913bbb6954dca79e
+462	568	7287358061522271	Car_Personal_Preparation.exe	eb1d9c2e8324ffc4
+3	398	7287358235750591	CMakeFiles/Car_Personal_Preparation.dir/main.cpp.obj	ce8d12d095b3409
+399	507	7287358236795628	Car_Personal_Preparation.exe	eb1d9c2e8324ffc4
+3	407	7287358392719393	CMakeFiles/Car_Personal_Preparation.dir/Rectangle.cpp.obj	913bbb6954dca79e
+408	516	7287358393745494	Car_Personal_Preparation.exe	eb1d9c2e8324ffc4
+3	456	7287358446387760	CMakeFiles/Car_Personal_Preparation.dir/Rectangle.cpp.obj	913bbb6954dca79e
+457	578	7287358447574669	Car_Personal_Preparation.exe	eb1d9c2e8324ffc4
+4	424	7287358570830915	CMakeFiles/Car_Personal_Preparation.dir/main.cpp.obj	ce8d12d095b3409
+424	537	7287358571906068	Car_Personal_Preparation.exe	eb1d9c2e8324ffc4
